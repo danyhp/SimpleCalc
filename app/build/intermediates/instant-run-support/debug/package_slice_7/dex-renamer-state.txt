@@ -1,0 +1,4 @@
+#Thu Feb 01 16:53:12 ICT 2018
+base.0=D\:\\ITHB\\Semester 6\\Pengembangan Aplikasi Mobile\\Android Studio\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
